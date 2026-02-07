@@ -9,7 +9,7 @@ A simple web proxy server that forwards client HTTP requests to target servers a
 
 ## Build and Run
 ```bash
-git clone <repo-url>
+git clone https://github.com/Manas-Tiwari/proxy_web_server.git
 cd proxy_web_server
 chmod +x build_and_run.sh
 ./build_and_run.sh
